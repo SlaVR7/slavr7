@@ -12,7 +12,7 @@
   </li>
   <li>
     <img width="17px" src="https://github.com/SlaVR7/slavr7/assets/105281241/4ec8404a-e8ee-40bb-bb2b-c6cc6ab19a13" alt="telegram icon">
-    <a href="t.me/skill_hunter" target="_blank"> Telegram</a>
+    <a href="https://t.me/skill_hunter" target="_blank"> Telegram</a>
   </li>
   <li>
     <img width="17px" src="https://github.com/SlaVR7/slavr7/assets/105281241/9f94abe8-bcc3-408a-af88-77e4ccf924c2" alt="gmail icon">

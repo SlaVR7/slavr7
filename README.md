@@ -12,7 +12,6 @@
   <li>TypeScript</li>
   <li>React</li>
   <li>Redux</li>
-  <li>NextJS</li>
   <li>SCSS/Tailwind</li>
   <li>Webpack/Vite</li>
   <li>Jest/Vitest</li>

@@ -70,7 +70,7 @@
 <ul>
   <li>
     <img width="17px" src="https://github.com/SlaVR7/slavr7/assets/105281241/c0f6ff3d-b7f9-4128-8df1-00f7b8b918e9" alt="linkedin icon">
-    <a href="" target="_blank">Linkedin</a>
+    <a href="www.linkedin.com/in/slavr-dev" target="_blank">Linkedin</a>
   </li>
   <li>
     <img width="17px" src="https://github.com/SlaVR7/slavr7/assets/105281241/4ec8404a-e8ee-40bb-bb2b-c6cc6ab19a13" alt="telegram icon">

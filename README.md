@@ -45,6 +45,7 @@
 </details>
 <details>
   <summary><img width="13px" src="https://github.com/SlaVR7/slavr7/assets/105281241/7cea524a-fdac-4c89-bd27-822eb60dcb71"> React</summary>
+  <li><a href="https://github.com/SlaVR7/graphiql-app">GraphiQL</a></li>
   <li><a href="https://github.com/slavr7//final-task/">Soap shop</a></li>
 </details>
 

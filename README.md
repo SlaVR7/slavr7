@@ -19,7 +19,7 @@
   <li>Figma</li>
 </ul>
 
-<h3>🌟 My some projects:</h3>
+<h3>🌟 Some of my projects:</h3>
 
 <details>
   <summary><img width="13px" src="https://github.com/SlaVR7/slavr7/assets/105281241/d626a113-5429-45b2-b911-da840857aaf3"> CSS</summary>
